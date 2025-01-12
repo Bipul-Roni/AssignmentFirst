@@ -54,6 +54,10 @@ transition: All 0.6s;
     margin-bottom: 32px;
 }
 
+.news.container {
+    margin-top: 48px;
+} 
+
 .blog-heading{
     font-family: "Fira Sans", serif;
     font-size: 32px;
@@ -150,29 +154,34 @@ transition: All 0.6s;
 
 
 
-/* This is the section of The Vision of Future  */
+.testimonial-content{
+    padding: 48px 24px 36px 24px;
+    background: url(../images/quote-bg.png), #ffff;
+    background-position: 24px 29.57px;
+    background-repeat: no-repeat;
+    align-items: center;
+    border-radius: 10PX;
+    border: 1px solid #e6e6e6;
+    margin-bottom: 32px;
+  
+}
 
-/* .box-content h1{
-    font-family: "Fira Sans", serif;
-    font-size: 40px;
-    font-weight: 700;
-    font-style: normal;
-    color: #0E0E0E;
-    margin-bottom: 24px;
-} */
-
-/* .box-content p{
+.testimonial-text{
     font-family: "Fira Sans", serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
-    color: #535353;
-    margin-bottom: 24px;
-} */
+    color: #3E3E3E;
+    margin-bottom: 12px;
+}
 
-/* This is the style of icon box  */
-
-
+.testimonial-content h3{
+    font-family: "Fira Sans", serif;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+    color: rgba(14, 14, 14, 0.8); 
+}
 
 .icon-box{
     margin: 80px auto 50px auto;
