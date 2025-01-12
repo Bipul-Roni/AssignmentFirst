@@ -504,6 +504,7 @@ input.btn {
     padding: 80px;
     margin-top: 80px;
     border-radius: 24px;
+    margin-bottom: 30px;
 }
 
 .news-latter {
@@ -540,4 +541,5 @@ input[type="text"] {
     transition: All 0.6s;
     cursor: pointer;
 }
+
 
